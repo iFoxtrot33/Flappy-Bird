@@ -1,0 +1,24 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "Classic game",
+  "main": "index.html",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFoxtrot33/Flappy-Bird.git"
+  },
+  "author": "Iurii Furman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFoxtrot33/Flappy-Bird/issues"
+  },
+  "homepage": "https://github.com/iFoxtrot33/Flappy-Bird#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
