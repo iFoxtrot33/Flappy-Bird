@@ -72,3 +72,8 @@ body {
   position: absolute;
   background-image: url('../imgs/flappybird-pipe.png');
 }
+
+.hide {
+  display: none;
+  z-index: -3;
+}
